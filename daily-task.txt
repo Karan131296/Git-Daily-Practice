@@ -5,3 +5,6 @@ Today's Tasks:
 - Install Git
 - Create Repository
 
+Completed:
+- Learned git init
+- Learned git status
