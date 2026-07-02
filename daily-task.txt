@@ -8,3 +8,11 @@ Today's Tasks:
 Completed:
 - Learned git init
 - Learned git status
+
+
+Day 2
+
+Today's Tasks:
+- Learn git add
+- Learn git commit
+- Learn git push
